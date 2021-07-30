@@ -713,6 +713,7 @@ a:focus {
 
 .department-service li i {
   color: #e12454;
+
 }
 
 .doctors .btn-group .btn {
@@ -1499,4 +1500,9 @@ a:focus {
 .thead-purple{
   color: white;
   background-color:#223a66 !important ;
+}
+
+.strong-text{
+  color: #223a66;
+  font-weight: bold;
 }
